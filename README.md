@@ -2,6 +2,8 @@
 
 They suggested, you disconnected. A Chrome extension that hides "Suggested" posts from your LinkedIn feed.
 
+![Screenshot](assets/Xnip2026-03-19_12-59-11.png)
+
 ## Install
 
 1. Download or clone this repository
